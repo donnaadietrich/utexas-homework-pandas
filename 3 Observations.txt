@@ -1,0 +1,8 @@
+3 observations:
+
+1) Students in Charter Schools do better on standardized tests than students in District Schools.
+
+2) A higher budget per student does not mean that the students will do better on standardized test, in fact the oppposite seems to be true.  The more budget per student, the lower the score.
+
+3) The smaller the population of students per school, the higher they score on standardized tests. 
+
